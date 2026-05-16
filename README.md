@@ -75,7 +75,4 @@ Dicas importantes para desenvolvedores
 - Para testes rápidos, use here-docs para simular o host ou pré-crie arquivos em `/var/venditor/WRK/`.
 - Se temporariamente fizer `log()` escrever em stdout para debug, reverta a mudança antes de commitar, pois o host depende do stdout para o protocolo.
 
-Suporte
-- Posso gerar scripts de setup que criam automaticamente o ambiente de teste em WSL (diretórios e arquivos), ou exemplos de here-docs para outros fluxos (`identify`, `clear`, `mobile`). Deseja que eu adicione isso ao repositório?
-
 
